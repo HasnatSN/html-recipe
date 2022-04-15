@@ -1,0 +1,13 @@
+* {
+  background-color: #e8e8cc;
+  color: #116530;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+h1:hover {
+  color: #2c9653;
+}
