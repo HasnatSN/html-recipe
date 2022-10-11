@@ -1,5 +1,4 @@
-# html-recipe
+# HTML Recipes (No real design, therefore ugly)
+To learn some more HTML
 
-HTML Project
-Just HTML
-Will be commited to my github account
+Click here 👉 [HTML Recipes](https://hasnatsn.github.io/html-recipes/ "HTML Recipes") 👈 for a live demo.
